@@ -267,7 +267,7 @@
   align-items: center;
   background-size: cover;
   justify-content: center;
-  background-image: url("public/playground_assets/1.1-1500w.png");
+  background-image: url("/playground_assets/1.1-1500w.png");
   background-position: center;
 }
 .home-text006 {
